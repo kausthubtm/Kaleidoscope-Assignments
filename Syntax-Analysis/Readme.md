@@ -7,6 +7,7 @@ Things to do :
 <br></br>
 
 ### Assignment submission
+- Clone the repo.
 - Create a sub-folder inside syntax analysis folder with "your_name" as the name of the folder.
 - Put all the file inside it.
 - Create a pull request
