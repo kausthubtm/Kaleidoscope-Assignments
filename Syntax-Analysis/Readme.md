@@ -15,7 +15,7 @@ Things to do :
 <br></br>
 
 ### Blog Topics
-- Sudhanva :
+- Sudhanva : Compiler, an unsung hero 
 - Vinamra :
 - Aditya : Parallelism and Compiler
 
