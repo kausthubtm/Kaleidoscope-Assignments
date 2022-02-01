@@ -16,6 +16,6 @@ Things to do :
 
 ### Blog Topics
 - Sudhanva : Compiler, an unsung hero 
-- Vinamra :
+- Vinamra : Domain specific languages
 - Aditya : Parallelism and Compiler
 
